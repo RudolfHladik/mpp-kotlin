@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/androidstudio
 
@@ -137,6 +138,8 @@ google-services.json
 # End of https://www.gitignore.io/api/androidstudio
 
 
+=======
+>>>>>>> 13b2f1dff8d85b7275c4d9cab08af5d7b8ce0108
 # Built application files
 *.apk
 *.ap_
@@ -176,8 +179,15 @@ captures/
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
+<<<<<<< HEAD
 .idea/dictionaries
 .idea/libraries
+=======
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+>>>>>>> 13b2f1dff8d85b7275c4d9cab08af5d7b8ce0108
 
 # Keystore files
 # Uncomment the following line if you do not want to check your keystore files in.
@@ -193,3 +203,10 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
